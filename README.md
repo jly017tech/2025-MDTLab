@@ -11,10 +11,14 @@
 <h2>Intro</h2>
 
 <p>
-MDT stands for Microsoft Deployment Toolkit and it is deploys an operating system, an application, or a settings on the computers only running in Windows.
-
+MDT stands for Microsoft Deployment Toolkit and it is deploys an operating system, an application, or a settings on the computers only running in Windows. Firsly, I setup DHCP Server and DNS server after promoting VM1 to Domain Controller, HuskyTech.local. I also changed static IP address and used same static IP address same as DNS server.
 </p>
 
+<br>
 
 <h2>Microsoft DeploymentToolkit using PXE boot</h2>
+
+<p>
+  
+</p>
 
