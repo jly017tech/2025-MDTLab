@@ -10,7 +10,9 @@
 
 <br>
 
-[![Watch the video](https://img.youtube.com/vi/GTKrgrngOTs/1.jpg)](https://www.youtube.com/watch?v=GTKrgrngOTs)
+<p>Youtube link:</p>
+
+[![Watch the video](https://img.youtube.com/vi/GTKrgrngOTs/0.jpg)](https://www.youtube.com/watch?v=GTKrgrngOTs)
 
 
 <h2>Intro</h2>
