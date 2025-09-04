@@ -20,7 +20,7 @@
 <hr>
 
 
-<h2>Intro</h2>
+<h2>Introduction</h2>
 
 <p>
 MDT stands for Microsoft Deployment Toolkit and it is deploys an operating system, an application, or a settings on the computers only running in Windows. As the video shows above, I have both virtual machines, domain controller and Windows 11 Client uninstall OS. Firsly, I setup DHCP Server so it automatically gives the IP address to the Windows 11 Home Client 2 virtual machine.
