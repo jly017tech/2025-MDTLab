@@ -16,8 +16,6 @@
 [![Watch the video](https://img.youtube.com/vi/GTKrgrngOTs/0.jpg)](https://www.youtube.com/watch?v=GTKrgrngOTs)
 
 
-<img width="1290" height="642" alt="Screenshot from 2025-09-04 04-35-32" src="https://github.com/user-attachments/assets/71ef84ab-422b-483a-94ab-aff5f20d1679" />
-
 
 
 <h2>Intro</h2>
@@ -27,6 +25,14 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 </p>
 
 <br>
+
+<hr>
+
+<h2>Microsoft Deployment Toolkit Workbench</h2>
+
+<img width="1290" height="642" alt="Screenshot from 2025-09-04 04-35-32" src="https://github.com/user-attachments/assets/71ef84ab-422b-483a-94ab-aff5f20d1679" />
+
+
 
 <h2>Microsoft DeploymentToolkit using PXE boot</h2>
 
