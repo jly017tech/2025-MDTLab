@@ -16,6 +16,8 @@
 [![Watch the video](https://img.youtube.com/vi/GTKrgrngOTs/0.jpg)](https://www.youtube.com/watch?v=GTKrgrngOTs)
 
 
+<br>
+<hr>
 
 
 <h2>Intro</h2>
@@ -41,6 +43,8 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
   PXE stands for Preboot Execution Enviornment and it is part of the UEFI where it goes through netwowrk card adapter without need to plug in by USB drive to reimage operating system, such as, Windows, Linux, or MacOs. For example,  once the WDS activating, the second virtual machine that doesn't have operating system install gets automtically an IP address by DHCP server from the Domain Controller VM. 
 </p>
 
+
+<hr>
 
 <h2>MDT Deployment page</h2>
 
