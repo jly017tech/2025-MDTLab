@@ -1,4 +1,4 @@
-<h1>Microsoft Deployment toolkits Lab</h1>
+<h1>Microsoft Deployment Toolkits Lab</h1>
 
 <ul>
   <li>DHCP Server</li>
