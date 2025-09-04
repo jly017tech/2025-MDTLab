@@ -31,3 +31,11 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
   PXE stands for Preboot Execution Enviornment and it is part of the UEFI where it goes through netwowrk card adapter without need to plug in by USB drive to reimage operating system, such as, Windows, Linux, or MacOs. For example,  once the WDS activating, the second virtual machine that doesn't have operating system install gets automtically an IP address by DHCP server from the Domain Controller VM. 
 </p>
 
+
+<h2>MDT Deployment page</h2>
+
+<img width="1034" height="646" alt="Screenshot from 2025-09-03 18-48-08" src="https://github.com/user-attachments/assets/9187a20c-180b-47ce-b2eb-7dd946621bb6" />
+
+<p>
+  In the screenshot above, I filled out the customSetting script opening with Notepad and it automatically fill out Domain name and password after the virtual machine finishes its Windows installation.
+</p>
