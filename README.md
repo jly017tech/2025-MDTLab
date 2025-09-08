@@ -34,6 +34,8 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <img width="1290" height="642" alt="Screenshot from 2025-09-04 04-35-32" src="https://github.com/user-attachments/assets/71ef84ab-422b-483a-94ab-aff5f20d1679" />
 
+<p></p>
+
 
 
 <h2>Microsoft DeploymentToolkit using PXE boot</h2>
@@ -53,3 +55,9 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 <p>
   In the screenshot above, I filled out the customSetting script opening with Notepad and it automatically fill out Domain name and password after the virtual machine finishes its Windows installation.
 </p>
+
+<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/f99ee660-9f46-4fbc-9a3d-0a37f194795a" />
+
+<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/5fae9483-b896-4d18-9823-f7cd2c819bd4" />
+
+
