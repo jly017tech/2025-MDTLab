@@ -95,3 +95,9 @@ I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 P
 
 <br>
 
+
+
+<h2>Deployment Summary: Success</h2>
+
+<img width="1038" height="671" alt="Screenshot from 2025-09-03 08-15-53" src="https://github.com/user-attachments/assets/4cbbb697-cc35-4b09-9d32-41563049c159" />
+
