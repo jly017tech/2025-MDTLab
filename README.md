@@ -97,7 +97,7 @@ I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 P
 <h3>Task sequence: Deploying Windows 11 Pro</h3>
 
 <img width="1034" height="670" alt="Screenshot from 2025-09-08 04-52-09" src="https://github.com/user-attachments/assets/dd8476c7-8ad8-407c-9585-d8e8b2b8d5a2" />
-<p>At the beginning of MDT Wizard page, I select Windows 11 Pro I deploy on my second virtual machine.</p>
+<p>At the beginning of MDT Wizard page, I select Windows 11 Pro I deploy on my second virtual machine.In the task sequence of MDT workbench, I forgot mention that I could deploy Windows 11 enterprise, Windows Server, and other old Windows previous version.</p>
 
 
 <h2>Installation Process</h2>
