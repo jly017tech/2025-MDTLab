@@ -40,8 +40,6 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <h2>Microsoft DeploymentToolkit using PXE boot</h2>
 
-<img width="1331" height="865" alt="Screenshot from 2025-09-08 04-47-44" src="https://github.com/user-attachments/assets/f72324b8-5751-41fd-9f13-ec006c515590" />
-
 
 <p>
   In this MDT lab, I use PXE boot to reimage a Windows 11 home on my second virtual machine.
@@ -54,9 +52,14 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 <h2>MDT Deployment page</h2>
 
 
+<img width="1331" height="865" alt="Screenshot from 2025-09-08 04-47-44" src="https://github.com/user-attachments/assets/f72324b8-5751-41fd-9f13-ec006c515590" />
 
+
+
+<h2>Windows Deployment Wizard</h2>
 
 <img width="858" height="653" alt="image" src="https://github.com/user-attachments/assets/29d29280-9360-4470-aeef-7b1bc9dd792a" />
+
 
 <p>After the VM2 finally establish a connection from the DHCP server and WDS from Domain Controller, I went ahead go through each steps and finish deploying images.</p>
 
