@@ -2,7 +2,6 @@
 
 <ul>
   <li>DHCP Server</li>
-  <li>DNS Server</li>
   <li>Microsoft Deployment Toolkit</li>
   <li>Windows 11 Home</li>
   <li>PXE boot</li>
@@ -34,21 +33,29 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <img width="1290" height="642" alt="Screenshot from 2025-09-04 04-35-32" src="https://github.com/user-attachments/assets/71ef84ab-422b-483a-94ab-aff5f20d1679" />
 
-<p></p>
+<p>I install adkwinpsetup.exe and adksetup.exe for the MDT app to work without having any error code occur.
+I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 Pro, and Windows Education from source folder called install.wim.  </p>
+
+<hr>
+
+
+<img width="969" height="567" alt="Screenshot from 2025-09-08 08-26-06" src="https://github.com/user-attachments/assets/0ad58227-d62b-4c2d-bdfe-1b59cffeb0d8" />
+
 
 
 
 <h2>Microsoft DeploymentToolkit using PXE boot</h2>
 
+<img width="1245" height="663" alt="image" src="https://github.com/user-attachments/assets/2e27a305-4660-4496-a94a-62c0a8c0bf38" />
+
 
 <p>
-  In this MDT lab, I use PXE boot to reimage a Windows 11 home on my second virtual machine.
-  PXE stands for Preboot Execution Enviornment and it is part of the UEFI where it goes through netwowrk card adapter without need to plug in by USB drive to reimage operating system, such as, Windows, Linux, or MacOs. For example,  once the WDS activating, the second virtual machine that doesn't have operating system install gets automtically an IP address by DHCP server from the Domain Controller VM. 
+  For this this MDT lab, I use PXE boot to reimage a Windows 11 home on my second virtual machine.
+  PXE stands for Preboot Execution Enviornment and it is part of the UEFI where it goes through netwowrk card adapter without need to plugin USB to the USB port to reimage Windows 11 Pro on my second virtual machine that doesn't have operating system install. It will gets automtically an IP address by DHCP server from the Domain Controller VM after Windows installation is finish. 
 </p>
 
 
 <hr>
-
 
 
 
@@ -82,7 +89,7 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 <img width="858" height="653" alt="image" src="https://github.com/user-attachments/assets/29d29280-9360-4470-aeef-7b1bc9dd792a" />
 
 
-<p>After the VM2 finally establish a connection from the DHCP server and WDS from Domain Controller, I went ahead go through each steps and finish deploying images.</p>
+<p>After the VM2 finally establish a connection from the DHCP server and WDS from Domain Controller, I went ahead go through each steps and finish deploying images This process takes for 30 minutes.</p>
 
 <hr>
 
