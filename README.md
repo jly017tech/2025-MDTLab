@@ -64,6 +64,8 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <br>
 
+<h2>CustomSetting.ini and Boostrap.ini</h2>
+
 <img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/f99ee660-9f46-4fbc-9a3d-0a37f194795a" />
 
 <hr>
