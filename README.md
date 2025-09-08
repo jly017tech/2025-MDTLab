@@ -89,9 +89,15 @@ I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 P
 <img width="858" height="653" alt="image" src="https://github.com/user-attachments/assets/29d29280-9360-4470-aeef-7b1bc9dd792a" />
 
 
-<p>After the VM2 finally establish a connection from the DHCP server and WDS from Domain Controller, I went ahead go through each steps and finish deploying images This process takes for 30 minutes.</p>
+<p>After the VM2 finally establish a connection from the DHCP server and WDS from Domain Controller, I went ahead go through each steps to finish deploying Windows 11 pro.I select This process takes for 30 minutes.</p>
 
 <hr>
+
+
+<h2>Installation Process</h2>
+<img width="1245" height="663" alt="Screenshot from 2025-09-08 08-44-15" src="https://github.com/user-attachments/assets/7a3846dc-c1a4-47a6-ad98-ad31cf1389ad" />
+
+
 
 <br>
 
