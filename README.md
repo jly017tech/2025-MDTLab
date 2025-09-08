@@ -49,6 +49,27 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <hr>
 
+
+
+
+<h2>CustomSetting.ini and Boostrap.ini</h2>
+
+<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/f99ee660-9f46-4fbc-9a3d-0a37f194795a" />
+
+<hr>
+
+<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/5fae9483-b896-4d18-9823-f7cd2c819bd4" />
+
+<p>
+  I add some commands in both customSettinng.ini and Bootstrap.ini after opening with Notepad. In the customSetting, I put a comment for each sections so when i go back and know where to add or remove a command line from. For the other script, DeployRoot is a path file for getting from DCHuskyTech, name of the domain controller through folder call DeploymentShare$. Also, and the other lines are there for verifying HuskyTech.local credential as an aspiring IT professional
+</p>
+
+
+<hr>
+
+<br>
+
+
 <h2>MDT Deployment page</h2>
 
 
@@ -66,16 +87,4 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 <hr>
 
 <br>
-
-<h2>CustomSetting.ini and Boostrap.ini</h2>
-
-<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/f99ee660-9f46-4fbc-9a3d-0a37f194795a" />
-
-<hr>
-
-<img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/5fae9483-b896-4d18-9823-f7cd2c819bd4" />
-
-<p>
-  I add some commands in both customSettinng.ini and Bootstrap.ini after opening with Notepad. In the customSetting, I put a comment for each sections so when i go back and know where to add or remove a command line from. For the other script, DeployRoot is a path file for getting from DCHuskyTech, name of the domain controller through folder call DeploymentShare$. Also, and the other lines are there for verifying HuskyTech.local credential as an aspiring IT professional
-</p>
 
