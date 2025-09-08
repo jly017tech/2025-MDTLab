@@ -39,6 +39,7 @@ I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 P
 <hr>
 
 
+<h3>After mounting the Windows 11 iso file and importing from Install.WIM</h3>
 <img width="969" height="567" alt="Screenshot from 2025-09-08 08-26-06" src="https://github.com/user-attachments/assets/0ad58227-d62b-4c2d-bdfe-1b59cffeb0d8" />
 
 
