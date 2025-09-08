@@ -50,14 +50,18 @@ MDT stands for Microsoft Deployment Toolkit and it is deploys an operating syste
 
 <h2>MDT Deployment page</h2>
 
-<img width="1034" height="646" alt="Screenshot from 2025-09-03 18-48-08" src="https://github.com/user-attachments/assets/9187a20c-180b-47ce-b2eb-7dd946621bb6" />
 
-<p>
-  In the screenshot above, I filled out the customSetting script opening with Notepad and it automatically fill out Domain name and password after the virtual machine finishes its Windows installation.
-</p>
+
+
+<img width="858" height="653" alt="image" src="https://github.com/user-attachments/assets/29d29280-9360-4470-aeef-7b1bc9dd792a" />
+
+
 
 <img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/f99ee660-9f46-4fbc-9a3d-0a37f194795a" />
 
 <img width="929" height="681" alt="image" src="https://github.com/user-attachments/assets/5fae9483-b896-4d18-9823-f7cd2c819bd4" />
 
+<p>
+  I add some commands in both customSettinng.ini and Bootstrap.ini after opening with Notepad. In the customSetting, I put a comment for each sections so when i go back and know where to add or remove a command line from. For the other script, DeployRoot is a path file for getting from DCHuskyTech, name of the domain controller through folder call DeploymentShare$. Also, and the other lines are there for verifying HuskyTech.local credential as an aspiring IT professional
+</p>
 
