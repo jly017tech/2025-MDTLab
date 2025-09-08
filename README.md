@@ -94,6 +94,11 @@ I mounted the Windows 11 iso file where I imported Windows 11 Home, Windows 11 P
 
 <hr>
 
+<h3>Task sequence: Deploying Windows 11 Pro</h3>
+
+<img width="1034" height="670" alt="Screenshot from 2025-09-08 04-52-09" src="https://github.com/user-attachments/assets/dd8476c7-8ad8-407c-9585-d8e8b2b8d5a2" />
+<p>At the beginning of MDT Wizard page, I select Windows 11 Pro I deploy on my second virtual machine.</p>
+
 
 <h2>Installation Process</h2>
 <img width="1245" height="663" alt="Screenshot from 2025-09-08 08-44-15" src="https://github.com/user-attachments/assets/7a3846dc-c1a4-47a6-ad98-ad31cf1389ad" />
