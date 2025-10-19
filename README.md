@@ -5,7 +5,7 @@
   <li>Microsoft Deployment Toolkit</li>
   <li>Windows 11 Home</li>
   <li>PXE boot</li>
-  <li>Lite Touch Windows PE is a boot image file where the IT professional use to deploy OS with Windows Deployment Service</li>
+  <li>Lite Touch Windows PE is a boot image file</li>
 </ul>
 
 <br>
